@@ -318,6 +318,8 @@ meson:
   opensuse: [meson]
   rhel: [meson]
   ubuntu: [meson]
+networktables:
+  ubuntu: [pynetworktables]
 nuitka:
   debian: [nuitka]
   ubuntu: [nuitka]
